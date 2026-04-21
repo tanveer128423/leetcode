@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanveer128423/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/tanveer128423/leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/tanveer128423/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
