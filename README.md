@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tanveer128423/leetcode/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tanveer128423/leetcode/tree/master/0008-string-to-integer-atoi) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tanveer128423/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tanveer128423/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
