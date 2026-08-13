@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tanveer128423/leetcode/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
