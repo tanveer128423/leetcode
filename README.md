@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
