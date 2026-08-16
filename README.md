@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/tanveer128423/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanveer128423/leetcode/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tanveer128423/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanveer128423/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
