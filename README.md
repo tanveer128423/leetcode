@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/tanveer128423/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tanveer128423/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -99,4 +100,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
