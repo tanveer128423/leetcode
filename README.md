@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tanveer128423/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tanveer128423/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tanveer128423/leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/tanveer128423/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/tanveer128423/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/tanveer128423/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanveer128423/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/tanveer128423/leetcode/tree/master/0063-unique-paths-ii) |
+| [0074-search-a-2d-matrix](https://github.com/tanveer128423/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
