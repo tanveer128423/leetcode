@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/tanveer128423/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/tanveer128423/leetcode/tree/master/0071-simplify-path) |
 ## Matrix
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/tanveer128423/leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tanveer128423/leetcode/tree/master/0090-subsets-ii) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/tanveer128423/leetcode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
