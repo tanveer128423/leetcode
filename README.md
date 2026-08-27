@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/tanveer128423/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/tanveer128423/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/tanveer128423/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tanveer128423/leetcode/tree/master/0091-decode-ways) |
 ## Matrix
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/tanveer128423/leetcode/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/tanveer128423/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tanveer128423/leetcode/tree/master/0091-decode-ways) |
 ## Quicksort
 |  |
