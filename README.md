@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanveer128423/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/tanveer128423/leetcode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanveer128423/leetcode/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/tanveer128423/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tanveer128423/leetcode/tree/master/0091-decode-ways) |
+| [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Quicksort
 |  |
 | ------- |
