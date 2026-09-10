@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/tanveer128423/leetcode/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 ## Binary Tree
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/tanveer128423/leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/tanveer128423/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanveer128423/leetcode/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanveer128423/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/tanveer128423/leetcode/tree/master/0085-maximal-rectangle) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
