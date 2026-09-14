@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanveer128423/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/tanveer128423/leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/tanveer128423/leetcode/tree/master/0090-subsets-ii) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanveer128423/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanveer128423/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tanveer128423/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanveer128423/leetcode/tree/master/0110-balanced-binary-tree) |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanveer128423/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 ## Sliding Window
 |  |
