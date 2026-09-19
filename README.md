@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/tanveer128423/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanveer128423/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
+| [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 ## Sliding Window
 |  |
 | ------- |
@@ -196,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
