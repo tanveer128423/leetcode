@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tanveer128423/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tanveer128423/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tanveer128423/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tanveer128423/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tanveer128423/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tanveer128423/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/tanveer128423/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/tanveer128423/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/tanveer128423/leetcode/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/tanveer128423/leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 ## Bit Manipulation
 |  |
@@ -179,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/tanveer128423/leetcode/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/tanveer128423/leetcode/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Hash Table
 |  |
 | ------- |
