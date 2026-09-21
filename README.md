@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanveer128423/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
+| [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tanveer128423/leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
