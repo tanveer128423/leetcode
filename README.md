@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/tanveer128423/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/tanveer128423/leetcode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/tanveer128423/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/tanveer128423/leetcode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Quicksort
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/tanveer128423/leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tanveer128423/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tanveer128423/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
