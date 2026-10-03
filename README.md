@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
+| [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/tanveer128423/leetcode/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -244,4 +246,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/tanveer128423/leetcode/tree/master/0133-clone-graph) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
