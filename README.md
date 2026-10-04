@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
+| [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
+| [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
+| [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Tree
 |  |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/tanveer128423/leetcode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
