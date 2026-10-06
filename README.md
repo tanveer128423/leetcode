@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tanveer128423/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanveer128423/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
 | [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
 | [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/tanveer128423/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/tanveer128423/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tanveer128423/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tanveer128423/leetcode/tree/master/0133-clone-graph) |
 ## Breadth-First Search
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/tanveer128423/leetcode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tanveer128423/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/tanveer128423/leetcode/tree/master/0133-clone-graph) |
 ## Binary Tree
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/tanveer128423/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/tanveer128423/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/tanveer128423/leetcode/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 ## Simulation
 |  |
 | ------- |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
