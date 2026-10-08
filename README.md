@@ -275,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/tanveer128423/leetcode/tree/master/0223-rectangle-area) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/tanveer128423/leetcode/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
