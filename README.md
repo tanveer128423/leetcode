@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/tanveer128423/leetcode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanveer128423/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/tanveer128423/leetcode/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tanveer128423/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tanveer128423/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/tanveer128423/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/tanveer128423/leetcode/tree/master/0148-sort-list) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/tanveer128423/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tanveer128423/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 ## Sliding Window
 |  |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/tanveer128423/leetcode/tree/master/0178-rank-scores) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
