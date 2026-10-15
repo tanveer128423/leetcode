@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
 | [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/tanveer128423/leetcode/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/tanveer128423/leetcode/tree/master/0097-interleaving-string) |
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Quicksort
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/tanveer128423/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tanveer128423/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
 | ------- |
@@ -233,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/tanveer128423/leetcode/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/tanveer128423/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tanveer128423/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
 ## Sliding Window
@@ -292,4 +297,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
