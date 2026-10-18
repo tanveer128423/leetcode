@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/tanveer128423/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tanveer128423/leetcode/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 | [0164-maximum-gap](https://github.com/tanveer128423/leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/tanveer128423/leetcode/tree/master/0179-largest-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/tanveer128423/leetcode/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tanveer128423/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/tanveer128423/leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
