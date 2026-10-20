@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/tanveer128423/leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Matrix
 |  |
 | ------- |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/tanveer128423/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tanveer128423/leetcode/tree/master/0090-subsets-ii) |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Backtracking
 |  |
 | ------- |
@@ -249,10 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/tanveer128423/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanveer128423/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/tanveer128423/leetcode/tree/master/0146-lru-cache) |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanveer128423/leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -315,4 +319,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tanveer128423/leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
