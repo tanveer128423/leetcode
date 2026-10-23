@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tanveer128423/leetcode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/tanveer128423/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/tanveer128423/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tanveer128423/leetcode/tree/master/0057-insert-interval) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/tanveer128423/leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/tanveer128423/leetcode/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tanveer128423/leetcode/tree/master/0090-subsets-ii) |
