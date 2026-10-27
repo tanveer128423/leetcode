@@ -12,7 +12,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/tanveer128423/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tanveer128423/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/tanveer128423/leetcode/tree/master/0172-factorial-trailing-zeroes) |
-| [0223-rectangle-area](https://github.com/tanveer128423/leetcode/tree/master/0223-rectangle-area) |
 ## Recursion
 |  |
 | ------- |
