@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/tanveer128423/leetcode/tree/master/0179-largest-number) |
 | [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/tanveer128423/leetcode/tree/master/0455-assign-cookies) |
+| [3665-twisted-mirror-path-count](https://github.com/tanveer128423/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/tanveer128423/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/tanveer128423/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tanveer128423/leetcode/tree/master/0130-surrounded-regions) |
+| [3665-twisted-mirror-path-count](https://github.com/tanveer128423/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Simulation
 |  |
 | ------- |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tanveer128423/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/tanveer128423/leetcode/tree/master/0140-word-break-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanveer128423/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [3665-twisted-mirror-path-count](https://github.com/tanveer128423/leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Quicksort
 |  |
 | ------- |
